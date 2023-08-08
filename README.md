@@ -8,7 +8,7 @@ In a Jupyter Notebook, you can create datasets that are used in research.
 
 ### Real Data
 
-You can download an earthquake dataset from the [USGS](1 https://earthquake.usgs.gov/earthquakes/search/). 
+You can download an earthquake dataset from the [USGS](https://earthquake.usgs.gov/earthquakes/search/). 
 
 This dataset covers a span of 5 years, from 2010 to 2014.
 
