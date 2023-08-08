@@ -1,6 +1,6 @@
 # GODE: Graph fourier transform based Outlier Detection using Emprical Bayesian thresholding
 
-## Propare Dataset
+## Prepare Dataset
 
 ### Simulation
 
