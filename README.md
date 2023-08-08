@@ -10,7 +10,7 @@ In a Jupyter Notebook, you can create datasets that are used in research.
 
 You can download an earthquake dataset from the [USGS](https://earthquake.usgs.gov/earthquakes/search/). 
 
-This dataset covers a span of 5 years, from 2010 to 2014.
+The dataset we utilized spans five years, ranging from 2010 to 2014, and includes global data.
 
 ### Files
 
